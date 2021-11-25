@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9596FF;}
+	.st1{fill:#845BFF;}
+	.st2{clip-path:url(#SVGID_2_);fill:#8F6AFF;}
+	.st3{clip-path:url(#SVGID_4_);fill:#A78AFF;}
+	.st4{clip-path:url(#SVGID_6_);fill:#B79FFF;}
+</style>
+<g>
+	<path class="st0" d="M1064,243H934c-3.87,0-7-3.13-7-7V106c0-3.87,3.13-7,7-7h130c3.87,0,7,3.13,7,7v130
+		C1071,239.87,1067.87,243,1064,243z"/>
+</g>
+<g>
+	<path class="st1" d="M850,864H230c-7.73,0-14-6.27-14-14V230c0-7.73,6.27-14,14-14h620c7.73,0,14,6.27,14,14v620
+		C864,857.73,857.73,864,850,864z"/>
+</g>
+<g>
+	<path class="st0" d="M1019,1008h-94c-3.87,0-7-3.13-7-7v-94c0-3.87,3.13-7,7-7h94c3.87,0,7,3.13,7,7v94
+		C1026,1004.87,1022.87,1008,1019,1008z"/>
+</g>
+<circle class="st0" cx="148.5" cy="157.5" r="4.5"/>
+<circle class="st0" cx="166.5" cy="139.5" r="4.5"/>
+<circle class="st0" cx="193.5" cy="157.5" r="4.5"/>
+<circle class="st0" cx="193.5" cy="103.5" r="4.5"/>
+<circle class="st0" cx="243" cy="126" r="9"/>
+<circle class="st0" cx="256.5" cy="166.5" r="4.5"/>
+<circle class="st0" cx="292.5" cy="76.5" r="13.5"/>
+<circle class="st0" cx="315" cy="117" r="9"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M849.59,864h-620c-7.73,0-14-6.27-14-14V230c0-7.73,6.27-14,14-14h620c7.73,0,14,6.27,14,14v620
+			C863.59,857.73,857.32,864,849.59,864z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<circle class="st2" cx="864" cy="864" r="567"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M849.59,864h-620c-7.73,0-14-6.27-14-14V230c0-7.73,6.27-14,14-14h620c7.73,0,14,6.27,14,14v620
+			C863.59,857.73,857.32,864,849.59,864z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<circle class="st3" cx="864" cy="864" r="441"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_5_" d="M849.59,864h-620c-7.73,0-14-6.27-14-14V230c0-7.73,6.27-14,14-14h620c7.73,0,14,6.27,14,14v620
+			C863.59,857.73,857.32,864,849.59,864z"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<circle class="st4" cx="868.5" cy="868.5" r="337.5"/>
+</g>
+<g>
+	<path class="st0" d="M346,936H86c-7.73,0-14-6.27-14-14V662c0-7.73,6.27-14,14-14h260c7.73,0,14,6.27,14,14v260
+		C360,929.73,353.73,936,346,936z"/>
+</g>
+<path class="st0" d="M216,450c144-18,63-63,153-99s108,36,189-9s45-72,63-90s45,0,81-18s27-18,27-18H230.02
+	c-7.74,0-14.02,6.28-14.02,14.02V450z"/>
+<circle class="st0" cx="301.5" cy="571.5" r="4.5"/>
+<circle class="st0" cx="319.5" cy="517.5" r="4.5"/>
+<circle class="st0" cx="337.5" cy="553.5" r="4.5"/>
+<circle class="st0" cx="423" cy="468" r="9"/>
+<circle class="st0" cx="355.5" cy="454.5" r="4.5"/>
+<circle class="st0" cx="382.5" cy="490.5" r="4.5"/>
+<circle class="st0" cx="355.5" cy="508.5" r="4.5"/>
+</svg>
